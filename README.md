@@ -2,7 +2,7 @@
  A Unity Traffic Light System with Pedestrian Signal
  
 
-![plot](https://github.com/YiYuGit/Unity-Traffic-Light-System/blob/main/Sample1.png）
+![alt text] (https://github.com/YiYuGit/Unity-Traffic-Light-System/blob/main/Sample1.png ）
 
 ![plot](https://github.com/YiYuGit/Unity-Traffic-Light-System/blob/main/Sample2.png）
 
